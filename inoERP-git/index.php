@@ -10,6 +10,7 @@
 	?>
 <?php
 	$tmp = "";
+	$metalica = "band";
 	if (file_exists('install.php')){
 
 		if (isset($_GET['install'])){
