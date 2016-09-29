@@ -9,7 +9,7 @@
 	$dont_check_login = true;
 	?>
 <?php
-
+	$tmp = "";
 	if (file_exists('install.php')){
 
 		if (isset($_GET['install'])){
