@@ -9,8 +9,7 @@
 	$dont_check_login = true;
 	?>
 <?php
-	$tmp = "";
-	$metalica = "band";
+
 	if (file_exists('install.php')){
 
 		if (isset($_GET['install'])){
