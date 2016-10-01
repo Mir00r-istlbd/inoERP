@@ -46,7 +46,7 @@ include_once("includes/functions/loader.inc");
     ?>
     <meta name="keywords" content="ERP,PHP ERP,Open Source ERP ">
     <title><?php echo isset($pageTitle) ? $pageTitle . ' - inoERP!' : ' inoERP! ' ?></title>
-    <link rel="shortcut icon" type="image/x-icon" href="../../files/favicon.ico">
+    <link rel="shortcut icon" type="image/x-icon" href="files/favicon.ico">
     <link href="<?php
     //  echo THEME_URL;
     //  echo (!empty($content_class)) ? '/content_layout.css' : '/layout.css'
