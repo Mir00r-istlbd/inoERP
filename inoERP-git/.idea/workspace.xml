@@ -1,1325 +1,1558 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ChangeListManager">
-    <list default="true" id="04ba1e3e-3a2f-4870-b516-256620047632" name="Default" comment="" />
-    <ignored path="inoerp.iws" />
-    <ignored path=".idea/workspace.xml" />
-    <ignored path=".idea/dataSources.local.xml" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
-    <option name="SHOW_DIALOG" value="false" />
-    <option name="HIGHLIGHT_CONFLICTS" value="true" />
-    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
-    <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
-  <component name="CreatePatchCommitExecutor">
-    <option name="PATCH_PATH" value="" />
-  </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
-  <component name="FavoritesManager">
-    <favorites_list name="inoerp" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="leave_transaction_template.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/hr/leave_transaction/leave_transaction_template.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.967742">
-              <caret line="71" column="52" selection-start-line="71" selection-start-column="52" selection-end-line="71" selection-end-column="52" />
-              <folding />
-            </state>
-          </provider>
+    <component name="ChangeListManager">
+        <list default="true" id="04ba1e3e-3a2f-4870-b516-256620047632" name="Default" comment=""/>
+        <ignored path="inoerp.iws"/>
+        <ignored path=".idea/workspace.xml"/>
+        <ignored path=".idea/dataSources.local.xml"/>
+        <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true"/>
+        <option name="TRACKING_ENABLED" value="true"/>
+        <option name="SHOW_DIALOG" value="false"/>
+        <option name="HIGHLIGHT_CONFLICTS" value="true"/>
+        <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false"/>
+        <option name="LAST_RESOLUTION" value="IGNORE"/>
+    </component>
+    <component name="ChangesViewManager" flattened_view="true" show_ignored="false"/>
+    <component name="CreatePatchCommitExecutor">
+        <option name="PATCH_PATH" value=""/>
+    </component>
+    <component name="ExecutionTargetManager" SELECTED_TARGET="default_target"/>
+    <component name="FavoritesManager">
+        <favorites_list name="inoerp"/>
+    </component>
+    <component name="FileEditorManager">
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+            <file leaf-file-name="leave_transaction_template.php" pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/modules/hr/leave_transaction/leave_transaction_template.php">
+                    <provider selected="true" editor-type-id="text-editor">
+                        <state vertical-scroll-proportion="-4.967742">
+                            <caret line="71" column="52" selection-start-line="71" selection-start-column="52"
+                                   selection-end-line="71" selection-end-column="52"/>
+                            <folding/>
+                        </state>
+                    </provider>
+                </entry>
+            </file>
+            <file leaf-file-name="class_hr_leave_type.inc" pinned="false" current-in-tab="true">
+                <entry file="file://$PROJECT_DIR$/modules/hr/leave_type/class_hr_leave_type.inc">
+                    <provider selected="true" editor-type-id="text-editor">
+                        <state vertical-scroll-proportion="0.4861111">
+                            <caret line="99" column="21" selection-start-line="99" selection-start-column="21"
+                                   selection-end-line="99" selection-end-column="21"/>
+                            <folding>
+                                <marker date="1475055977588" expanded="true" signature="2744:2757"
+                                        placeholder="SELECT * FRO..."/>
+                            </folding>
+                        </state>
+                    </provider>
+                </entry>
+            </file>
+            <file leaf-file-name="class.option_line.inc" pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/modules/sys/option/class.option_line.inc">
+                    <provider selected="true" editor-type-id="text-editor">
+                        <state vertical-scroll-proportion="58.774193">
+                            <caret line="2" column="6" selection-start-line="2" selection-start-column="6"
+                                   selection-end-line="2" selection-end-column="6"/>
+                            <folding>
+                                <marker date="1475057808531" expanded="true" signature="1983:1997"
+                                        placeholder="SELECT * FRO..${self::$table_name}..."/>
+                                <marker date="1475057808531" expanded="true" signature="2337:2462"
+                                        placeholder="SELECT * FRO..${self::$table_name}..."/>
+                                <marker date="1475057808531" expanded="true" signature="2740:2923"
+                                        placeholder="SELECT * FRO..option_line..."/>
+                                <marker date="1475057808531" expanded="true" signature="3191:4240"
+                                        placeholder="CREATE TABLE..IF..."/>
+                            </folding>
+                        </state>
+                    </provider>
+                </entry>
+            </file>
+            <file leaf-file-name="class.option_header.inc" pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/modules/sys/option/class.option_header.inc">
+                    <provider selected="true" editor-type-id="text-editor">
+                        <state vertical-scroll-proportion="-7.806452">
+                            <caret line="123" column="0" selection-start-line="123" selection-start-column="0"
+                                   selection-end-line="123" selection-end-column="0"/>
+                            <folding>
+                                <marker date="1474786383413" expanded="true" signature="5038:5052"
+                                        placeholder="SELECT * FRO..${self::$table_name}..."/>
+                                <marker date="1474786383413" expanded="true" signature="5246:5328"
+                                        placeholder="SELECT * FRO..${self::$table_name}..."/>
+                                <marker date="1474786383413" expanded="true" signature="5794:5869"
+                                        placeholder="SELECT * FRO..${self::$table_name}..."/>
+                                <marker date="1474786383413" expanded="true" signature="6552:6632"
+                                        placeholder="SELECT * FRO..${self::$table_name}..."/>
+                            </folding>
+                        </state>
+                    </provider>
+                </entry>
+            </file>
+        </leaf>
+    </component>
+    <component name="Git.Settings">
+        <option name="ROOT_SYNC" value="DONT_SYNC"/>
+        <option name="FORCE_PUSH_ALLOWED" value="true"/>
+    </component>
+    <component name="HighlightingSettingsPerFile">
+        <setting file="mock:///Dummy.txt" root0="SKIP_INSPECTION"/>
+    </component>
+    <component name="IdeDocumentHistory">
+        <option name="CHANGED_PATHS">
+            <list>
+                <option value="$PROJECT_DIR$/engine/install/include/basics.inc"/>
+                <option value="$PROJECT_DIR$/form.php"/>
+                <option value="$PROJECT_DIR$/assets/vendor/ino-oracle/class_dbc.inc"/>
+                <option value="$PROJECT_DIR$/assets/vendor/ino-oracle/class_dbObject.inc"/>
+                <option value="$PROJECT_DIR$/custom/include/sd_so_header_include.inc"/>
+                <option value="$PROJECT_DIR$/define_const.inc"/>
+                <option value="$PROJECT_DIR$/includes/general_class/class_dbObject.inc"/>
+                <option value="$PROJECT_DIR$/includes/general_class/trait_dbObject_t.inc"/>
+                <option value="$PROJECT_DIR$/includes/functions/loader.inc"/>
+                <option value="$PROJECT_DIR$/modules/sys/secondary/field_inst/class_sys_secondary_field_inst.inc"/>
+                <option value="$PROJECT_DIR$/extensions/path/path_template.php"/>
+                <option value="$PROJECT_DIR$/extensions/path/class_path.inc"/>
+                <option value="$PROJECT_DIR$/extensions/login/user_login_template.php"/>
+                <option value="$PROJECT_DIR$/modules/sys/option/class.option_header.inc"/>
+                <option value="$PROJECT_DIR$/extensions/path/path.js"/>
+                <option value="$PROJECT_DIR$/modules/hr/timesheet/time_sheet.inc"/>
+                <option value="$PROJECT_DIR$/extensions/ino_user/class_ino_user.inc"/>
+                <option value="$PROJECT_DIR$/modules/hr/timesheet/time_sheet_template.php"/>
+                <option value="$PROJECT_DIR$/themes/slick/public.css"/>
+                <option value="$PROJECT_DIR$/themes/simple/public.css"/>
+                <option value="$PROJECT_DIR$/themes/default/public.css"/>
+                <option value="$PROJECT_DIR$/themes/darkgrey/public.css"/>
+                <option value="$PROJECT_DIR$/themes/square/public.css"/>
+                <option value="$PROJECT_DIR$/modules/hr/timesheet/class_hr_timesheet_header.inc"/>
+                <option value="$PROJECT_DIR$/modules/hr/employee/class_hr_employee.inc"/>
+                <option value="$PROJECT_DIR$/modules/hr/leave_entitlement/leave_entitlement_template.php"/>
+                <option value="$PROJECT_DIR$/modules/hr/leave_transaction/class_hr_leave_transaction.inc"/>
+                <option value="$PROJECT_DIR$/modules/sys/notification/class_sys_notification.inc"/>
+                <option value="$PROJECT_DIR$/includes/basics/footer.inc"/>
+                <option value="$PROJECT_DIR$/themes/darkgrey/footer.inc"/>
+                <option value="$PROJECT_DIR$/includes/general_class/class_inoform.inc"/>
+                <option value="$PROJECT_DIR$/modules/hr/leave_type/leave_type_template.php"/>
+                <option value="$PROJECT_DIR$/modules/hr/leave_type/class_hr_leave_type.inc"/>
+                <option value="$PROJECT_DIR$/modules/sys/option/class.option_line.inc"/>
+                <option value="$PROJECT_DIR$/download.php"/>
+                <option value="$PROJECT_DIR$/modules/hr/leave_transaction/leave_transaction_template.php"/>
+                <option value="$PROJECT_DIR$/modules/hr/leave_type/leave_type.js"/>
+            </list>
+        </option>
+    </component>
+    <component name="JsBuildToolGruntFileManager" detection-done="true"/>
+    <component name="JsBuildToolPackageJson" detection-done="true"/>
+    <component name="JsGulpfileManager">
+        <detection-done>true</detection-done>
+    </component>
+    <component name="PhpServers">
+        <servers/>
+    </component>
+    <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true"/>
+    <component name="ProjectFrameBounds">
+        <option name="x" value="-8"/>
+        <option name="y" value="-8"/>
+        <option name="width" value="1382"/>
+        <option name="height" value="744"/>
+    </component>
+    <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+            <profile-state>
+                <expanded-state>
+                    <State>
+                        <id/>
+                    </State>
+                    <State>
+                        <id>CSS</id>
+                    </State>
+                    <State>
+                        <id>Invalid elementsCSS</id>
+                    </State>
+                </expanded-state>
+                <selected-state>
+                    <State>
+                        <id>CssInvalidPropertyValue</id>
+                    </State>
+                </selected-state>
+            </profile-state>
         </entry>
-      </file>
-      <file leaf-file-name="class_hr_leave_type.inc" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/modules/hr/leave_type/class_hr_leave_type.inc">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4861111">
-              <caret line="99" column="21" selection-start-line="99" selection-start-column="21" selection-end-line="99" selection-end-column="21" />
-              <folding>
-                <marker date="1475055977588" expanded="true" signature="2744:2757" placeholder="SELECT * FRO..." />
-              </folding>
-            </state>
-          </provider>
+    </component>
+    <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+        <OptionsSetting value="true" id="Add"/>
+        <OptionsSetting value="true" id="Remove"/>
+        <OptionsSetting value="true" id="Checkout"/>
+        <OptionsSetting value="true" id="Update"/>
+        <OptionsSetting value="true" id="Status"/>
+        <OptionsSetting value="true" id="Edit"/>
+        <ConfirmationsSetting value="0" id="Add"/>
+        <ConfirmationsSetting value="0" id="Remove"/>
+    </component>
+    <component name="ProjectView">
+        <navigator currentView="ProjectPane" proportions="" version="1">
+            <flattenPackages/>
+            <showMembers/>
+            <showModules/>
+            <showLibraryContents/>
+            <hideEmptyPackages/>
+            <abbreviatePackageNames/>
+            <autoscrollToSource/>
+            <autoscrollFromSource/>
+            <sortByType/>
+            <manualOrder/>
+            <foldersAlwaysOnTop value="true"/>
+        </navigator>
+        <panes>
+            <pane id="Scope"/>
+            <pane id="ProjectPane">
+                <subPane>
+                    <PATH>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="inoerp"/>
+                            <option name="myItemType"
+                                    value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode"/>
+                        </PATH_ELEMENT>
+                    </PATH>
+                    <PATH>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="inoerp"/>
+                            <option name="myItemType"
+                                    value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="inoerp"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                    </PATH>
+                    <PATH>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="inoerp"/>
+                            <option name="myItemType"
+                                    value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="inoerp"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="themes"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                    </PATH>
+                    <PATH>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="inoerp"/>
+                            <option name="myItemType"
+                                    value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="inoerp"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="themes"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="basic"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                    </PATH>
+                    <PATH>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="inoerp"/>
+                            <option name="myItemType"
+                                    value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="inoerp"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="modules"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                    </PATH>
+                    <PATH>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="inoerp"/>
+                            <option name="myItemType"
+                                    value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="inoerp"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="modules"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="hr"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                    </PATH>
+                    <PATH>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="inoerp"/>
+                            <option name="myItemType"
+                                    value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="inoerp"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="modules"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="hr"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="timesheet"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                    </PATH>
+                    <PATH>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="inoerp"/>
+                            <option name="myItemType"
+                                    value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="inoerp"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="modules"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="hr"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="timesheet"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="header_user"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                    </PATH>
+                    <PATH>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="inoerp"/>
+                            <option name="myItemType"
+                                    value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="inoerp"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="modules"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="hr"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="leave_type"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                    </PATH>
+                    <PATH>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="inoerp"/>
+                            <option name="myItemType"
+                                    value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="inoerp"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="modules"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="hr"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="leave_transaction"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                    </PATH>
+                    <PATH>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="inoerp"/>
+                            <option name="myItemType"
+                                    value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="inoerp"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="modules"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="hr"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="leave_entitlement"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                    </PATH>
+                    <PATH>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="inoerp"/>
+                            <option name="myItemType"
+                                    value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="inoerp"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="modules"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="hr"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="leave"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                    </PATH>
+                    <PATH>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="inoerp"/>
+                            <option name="myItemType"
+                                    value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="inoerp"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="includes"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                    </PATH>
+                    <PATH>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="inoerp"/>
+                            <option name="myItemType"
+                                    value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="inoerp"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="includes"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="general_class"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                    </PATH>
+                    <PATH>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="inoerp"/>
+                            <option name="myItemType"
+                                    value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="inoerp"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="includes"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="functions"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                    </PATH>
+                    <PATH>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="inoerp"/>
+                            <option name="myItemType"
+                                    value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="inoerp"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="includes"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="basics"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                    </PATH>
+                    <PATH>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="inoerp"/>
+                            <option name="myItemType"
+                                    value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="inoerp"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="extensions"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                    </PATH>
+                    <PATH>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="inoerp"/>
+                            <option name="myItemType"
+                                    value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="inoerp"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="extensions"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="path"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                    </PATH>
+                    <PATH>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="inoerp"/>
+                            <option name="myItemType"
+                                    value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="inoerp"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="engine"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                    </PATH>
+                    <PATH>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="inoerp"/>
+                            <option name="myItemType"
+                                    value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="inoerp"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="engine"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="install"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                    </PATH>
+                    <PATH>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="inoerp"/>
+                            <option name="myItemType"
+                                    value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="inoerp"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="engine"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="install"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="include"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                    </PATH>
+                    <PATH>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="inoerp"/>
+                            <option name="myItemType"
+                                    value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="inoerp"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="documents"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                    </PATH>
+                    <PATH>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="inoerp"/>
+                            <option name="myItemType"
+                                    value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="inoerp"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="documents"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="hr"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                    </PATH>
+                    <PATH>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="inoerp"/>
+                            <option name="myItemType"
+                                    value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="inoerp"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="assets"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="vendor"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="ino-oracle"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                    </PATH>
+                    <PATH>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="inoerp"/>
+                            <option name="myItemType"
+                                    value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="inoerp"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="assets"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="vendor"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="ino-oracle"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="dump"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                    </PATH>
+                    <PATH>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="inoerp"/>
+                            <option name="myItemType"
+                                    value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="inoerp"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="assets"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="vendor"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="ino-oracle"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="dump"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="old"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                    </PATH>
+                    <PATH>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="inoerp"/>
+                            <option name="myItemType"
+                                    value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="inoerp"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="assets"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="vendor"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="ino-oracle"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="db"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                    </PATH>
+                </subPane>
+            </pane>
+            <pane id="Scratches"/>
+        </panes>
+    </component>
+    <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="vcs.Git"/>
+        <property name="settings.editor.splitter.proportion" value="0.2"/>
+        <property name="last_opened_file_path" value="$PROJECT_DIR$"/>
+        <property name="WebServerToolWindowFactoryState" value="false"/>
+        <property name="SearchEverywhereHistoryKey"
+                  value="hr_leave_&#9;null&#9;null&#10;footer&#9;FILE&#9;file://C:/xampp/htdocs/inoerp/themes/darkgrey/footer.inc&#10;copy&#9;FILE&#9;file://C:/xampp/htdocs/inoerp/COPYRIGHT.txt&#10;class_hr_leave_transaction.in&#9;FILE&#9;file://C:/xampp/htdocs/inoerp/modules/hr/leave_transaction/class_hr_leave_transaction.inc&#10;navi&#9;ACTION&#9;ActivateNavBar&#10;tr&#9;FILE&#9;file://C:/xampp/htdocs/inoerp/includes/general_class/trait_dbObject_t.inc"/>
+    </component>
+    <component name="RunManager">
+        <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+            <method/>
+        </configuration>
+        <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+            <TestRunner/>
+            <method/>
+        </configuration>
+        <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+            <BehatRunner/>
+            <method/>
+        </configuration>
+        <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+            <method/>
+        </configuration>
+        <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+            <node-options/>
+            <gulpfile/>
+            <tasks/>
+            <arguments/>
+            <envs/>
+            <method/>
+        </configuration>
+        <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+            <command value="run-script"/>
+            <scripts/>
+            <envs/>
+            <method/>
+        </configuration>
+    </component>
+    <component name="ShelveChangesManager" show_recycled="false"/>
+    <component name="SvnConfiguration">
+        <configuration/>
+    </component>
+    <component name="TaskManager">
+        <task active="true" id="Default" summary="Default task">
+            <changelist id="04ba1e3e-3a2f-4870-b516-256620047632" name="Default" comment=""/>
+            <created>1474456313703</created>
+            <option name="number" value="Default"/>
+            <updated>1474456313703</updated>
+        </task>
+        <servers/>
+    </component>
+    <component name="ToolWindowManager">
+        <frame x="-8" y="-8" width="1382" height="744" extended-state="6"/>
+        <editor active="false"/>
+        <layout>
+            <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED"
+                         visible="true" show_stripe_button="true" weight="0.24304539" sideWeight="0.5" order="0"
+                         side_tool="false" content_ui="combo"/>
+            <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED"
+                         visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6"
+                         side_tool="false" content_ui="tabs"/>
+            <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED"
+                         type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913387" sideWeight="0.5"
+                         order="7" side_tool="true" content_ui="tabs"/>
+            <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED"
+                         type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5"
+                         order="3" side_tool="false" content_ui="tabs"/>
+            <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false"
+                         internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true"
+                         weight="0.32913387" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs"/>
+            <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED"
+                         type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5"
+                         order="7" side_tool="false" content_ui="tabs"/>
+            <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED"
+                         visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2"
+                         side_tool="false" content_ui="tabs"/>
+            <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED"
+                         type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5"
+                         order="1" side_tool="false" content_ui="tabs"/>
+            <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED"
+                         type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5"
+                         order="7" side_tool="false" content_ui="tabs"/>
+            <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED"
+                         type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5"
+                         order="2" side_tool="true" content_ui="tabs"/>
+            <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED"
+                         type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3"
+                         side_tool="false" content_ui="tabs"/>
+            <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED"
+                         visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4"
+                         side_tool="false" content_ui="tabs"/>
+            <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED"
+                         type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5"
+                         order="0" side_tool="false" content_ui="tabs"/>
+            <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED"
+                         type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0"
+                         side_tool="false" content_ui="tabs"/>
+            <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED"
+                         type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5"
+                         side_tool="false" content_ui="tabs"/>
+            <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED"
+                         type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5"
+                         order="2" side_tool="false" content_ui="combo"/>
+            <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED"
+                         visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1"
+                         side_tool="false" content_ui="tabs"/>
+            <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED"
+                         type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5"
+                         order="1" side_tool="false" content_ui="tabs"/>
+        </layout>
+    </component>
+    <component name="Vcs.Log.UiProperties">
+        <option name="RECENTLY_FILTERED_USER_GROUPS">
+            <collection/>
+        </option>
+        <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+            <collection/>
+        </option>
+    </component>
+    <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000"/>
+    </component>
+    <component name="XDebuggerManager">
+        <breakpoint-manager/>
+        <watches-manager/>
+    </component>
+    <component name="editorHistoryManager">
+        <entry file="file://$PROJECT_DIR$/form.php">
+            <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                    <caret line="0" column="0" selection-start-line="0" selection-start-column="0"
+                           selection-end-line="0" selection-end-column="0"/>
+                    <folding/>
+                </state>
+            </provider>
         </entry>
-      </file>
-      <file leaf-file-name="class.option_line.inc" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/engine/install/include/basics.inc">
+            <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                    <caret line="6" column="57" selection-start-line="6" selection-start-column="57"
+                           selection-end-line="6" selection-end-column="57"/>
+                    <folding/>
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/includes/basics/basics.inc">
+            <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                    <caret line="0" column="0" selection-start-line="0" selection-start-column="0"
+                           selection-end-line="0" selection-end-column="0"/>
+                    <folding/>
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/custom/include/xxxpo_header_include.inc">
+            <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                    <caret line="0" column="0" selection-start-line="0" selection-start-column="0"
+                           selection-end-line="0" selection-end-column="0"/>
+                    <folding/>
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/custom/include/sd_so_header_include.inc">
+            <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.22916667">
+                    <caret line="6" column="9" selection-start-line="6" selection-start-column="9"
+                           selection-end-line="6" selection-end-column="9"/>
+                    <folding/>
+                </state>
+            </provider>
+        </entry>
+        <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/PDO.php">
+            <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.43055555">
+                    <caret line="724" column="24" selection-start-line="724" selection-start-column="24"
+                           selection-end-line="724" selection-end-column="24"/>
+                    <folding/>
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/assets/vendor/ino-oracle/class_dbObject.inc">
+            <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.4045139">
+                    <caret line="204" column="56" selection-start-line="204" selection-start-column="56"
+                           selection-end-line="204" selection-end-column="56"/>
+                    <folding>
+                        <marker date="1474698144549" expanded="true" signature="9480:9494"
+                                placeholder="SELECT * FRO..${static::$table_name}..."/>
+                        <marker date="1474698144549" expanded="true" signature="9771:9826"
+                                placeholder="SELECT * FRO..${static::$table_name}..."/>
+                        <marker date="1474698144549" expanded="true" signature="10266:10287"
+                                placeholder="SELECT COUNT..${static::$table_name}..."/>
+                        <marker date="1474698144549" expanded="true" signature="10744:10757"
+                                placeholder="SELECT * FRO..."/>
+                        <marker date="1474698144549" expanded="true" signature="11556:11569"
+                                placeholder="SELECT * FRO..."/>
+                        <marker date="1474698144549" expanded="true" signature="12219:12232"
+                                placeholder="SELECT * FRO..."/>
+                        <marker date="1474698144549" expanded="true" signature="12585:12598"
+                                placeholder="SELECT * FRO..."/>
+                        <marker date="1474698144549" expanded="true" signature="14234:14247"
+                                placeholder="SELECT * FRO..."/>
+                        <marker date="1474698144549" expanded="true" signature="14708:14721"
+                                placeholder="SELECT * FRO..."/>
+                        <marker date="1474698144549" expanded="true" signature="15661:15674"
+                                placeholder="SELECT * FRO..."/>
+                        <marker date="1474698144549" expanded="true" signature="16641:16654"
+                                placeholder="SELECT * FRO..."/>
+                        <marker date="1474698144549" expanded="true" signature="17106:17210"
+                                placeholder="SELECT * FRO..${static::$table_name}..."/>
+                        <marker date="1474698144549" expanded="true" signature="17436:17548"
+                                placeholder="SELECT * FRO..${static::$table_name}..."/>
+                        <marker date="1474698144549" expanded="true" signature="17823:17913"
+                                placeholder="SELECT * FRO..${static::$table_name}..."/>
+                        <marker date="1474698144549" expanded="true" signature="18893:18978"
+                                placeholder="SELECT * FRO..${static::$table_name}..."/>
+                        <marker date="1474698144549" expanded="true" signature="19191:19287"
+                                placeholder="SELECT * FRO..${static::$table_name}..."/>
+                        <marker date="1474698144549" expanded="true" signature="19524:19636"
+                                placeholder="SELECT * FRO..${static::$table_name}..."/>
+                        <marker date="1474698144549" expanded="true" signature="23956:23997"
+                                placeholder="SELECT ${$ne..DUAL..."/>
+                        <marker date="1474698144549" expanded="true" signature="31848:31980" placeholder="..."/>
+                        <marker date="1474698144549" expanded="true" signature="33002:33134" placeholder="..."/>
+                        <marker date="1474698144549" expanded="true" signature="34160:34292" placeholder="..."/>
+                        <marker date="1474698144549" expanded="true" signature="38367:38548"
+                                placeholder="SELECT * FRO..${$class}..."/>
+                        <marker date="1474698144549" expanded="true" signature="44661:44795"
+                                placeholder="SELECT TABLE..tables..."/>
+                        <marker date="1474698144549" expanded="true" signature="45135:45270"
+                                placeholder="SELECT TABLE..tables..."/>
+                        <marker date="1474698144549" expanded="true" signature="45449:45546"
+                                placeholder="SELECT * fro..views..."/>
+                        <marker date="1474698144549" expanded="true" signature="45743:45849"
+                                placeholder="SELECT TABLE..tables..."/>
+                        <marker date="1474698144549" expanded="true" signature="46037:46165"
+                                placeholder="SELECT count..tables..."/>
+                        <marker date="1474698144549" expanded="true" signature="46392:46526"
+                                placeholder="SELECT TABLE..tables..."/>
+                        <marker date="1474698144549" expanded="true" signature="46750:46884"
+                                placeholder="SELECT TABLE..tables..."/>
+                    </folding>
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/includes/basics/basics.inc">
+            <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                    <caret line="0" column="0" selection-start-line="0" selection-start-column="0"
+                           selection-end-line="0" selection-end-column="0"/>
+                    <folding/>
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/assets/vendor/ino-oracle/class_dbc.inc">
+            <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.9236111">
+                    <caret line="114" column="2" selection-start-line="114" selection-start-column="2"
+                           selection-end-line="114" selection-end-column="2"/>
+                    <folding/>
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/includes/general_class/class_dbObject.inc">
+            <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.121527776">
+                    <caret line="8" column="0" selection-start-line="8" selection-start-column="0"
+                           selection-end-line="8" selection-end-column="0"/>
+                    <folding/>
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/extensions/url_alias/class_ext_url_alias.inc">
+            <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-2.1290324">
+                    <caret line="13" column="0" selection-start-line="13" selection-start-column="0"
+                           selection-end-line="13" selection-end-column="0"/>
+                    <folding>
+                        <element signature="e#196#210#0#PHP" expanded="false"/>
+                        <marker date="1473950646000" expanded="true" signature="1483:1496"
+                                placeholder="SELECT * FRO..."/>
+                        <marker date="1473950646000" expanded="true" signature="1755:1768"
+                                placeholder="SELECT * FRO..."/>
+                        <marker date="1473950646000" expanded="true" signature="2059:2072"
+                                placeholder="SELECT * FRO..."/>
+                        <marker date="1473950646000" expanded="true" signature="2304:2317"
+                                placeholder="SELECT * FRO..."/>
+                        <marker date="1473950646000" expanded="true" signature="2563:2576"
+                                placeholder="SELECT * FRO..."/>
+                    </folding>
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/engine/install/include/basics.inc">
+            <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.5954861">
+                    <caret line="44" column="20" selection-start-line="44" selection-start-column="20"
+                           selection-end-line="44" selection-end-column="20"/>
+                    <folding/>
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/modules/sys/secondary/field_inst/class_sys_secondary_field_inst.inc">
+            <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-7.7465277">
+                    <caret line="2" column="6" selection-start-line="2" selection-start-column="6"
+                           selection-end-line="2" selection-end-column="6"/>
+                    <folding>
+                        <marker date="1474783986944" expanded="true" signature="4567:4580"
+                                placeholder="SELECT * FRO..."/>
+                        <marker date="1474783986944" expanded="true" signature="8788:8801"
+                                placeholder="SELECT * FRO..."/>
+                    </folding>
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/includes/functions/loader.inc">
+            <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-4.576389">
+                    <caret line="523" column="47" selection-start-line="523" selection-start-column="47"
+                           selection-end-line="523" selection-end-column="47"/>
+                    <folding/>
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/extensions/login/user_login_template.php">
+            <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.104166664">
+                    <caret line="15" column="41" selection-start-line="15" selection-start-column="41"
+                           selection-end-line="15" selection-end-column="41"/>
+                    <folding/>
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/extensions/path/path.js">
+            <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.39868203">
+                    <caret line="11" column="31" selection-start-line="11" selection-start-column="31"
+                           selection-end-line="11" selection-end-column="31"/>
+                    <folding/>
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/extensions/path/path_template.php">
+            <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.9548611">
+                    <caret line="40" column="31" selection-start-line="40" selection-start-column="19"
+                           selection-end-line="40" selection-end-column="31"/>
+                    <folding/>
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/extensions/path/class_path.inc">
+            <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.4565972">
+                    <caret line="547" column="16" selection-start-line="547" selection-start-column="16"
+                           selection-end-line="547" selection-end-column="16"/>
+                    <folding>
+                        <element signature="e#198#211#0#PHP" expanded="false"/>
+                        <marker date="1474784774863" expanded="true" signature="3228:3280"
+                                placeholder="SELECT path_..path..."/>
+                        <marker date="1474784774863" expanded="true" signature="3857:3950"
+                                placeholder="SELECT path_..path..."/>
+                        <marker date="1474784774863" expanded="true" signature="4095:4170"
+                                placeholder="SELECT * FRO..path..."/>
+                        <marker date="1474784774863" expanded="true" signature="4635:4662"
+                                placeholder="SELECT * fro..path..."/>
+                        <marker date="1474784774863" expanded="true" signature="6148:6288"
+                                placeholder="SELECT path...."/>
+                        <marker date="1474784774863" expanded="true" signature="6821:6961"
+                                placeholder="SELECT path...."/>
+                        <marker date="1474784774863" expanded="true" signature="7349:7362"
+                                placeholder="SELECT * FRO..."/>
+                        <marker date="1474784774863" expanded="true" signature="7782:7795"
+                                placeholder="SELECT * FRO..."/>
+                        <marker date="1474784774863" expanded="true" signature="8273:8287"
+                                placeholder="SELECT * FRO..${self::$table_name}..."/>
+                        <marker date="1474784774863" expanded="true" signature="8507:8578"
+                                placeholder="SELECT * FRO..${self::$table_name}..."/>
+                        <marker date="1474784774863" expanded="true" signature="8842:8927"
+                                placeholder="SELECT * FRO..${self::$table_name}..."/>
+                        <marker date="1474784774863" expanded="true" signature="9173:9252"
+                                placeholder="SELECT * FRO..${self::$table_name}..."/>
+                        <marker date="1474784774863" expanded="true" signature="12058:12182"
+                                placeholder="SELECT path_..path..."/>
+                        <marker date="1474784774863" expanded="true" signature="12348:12409"
+                                placeholder="SELECT path_..path..."/>
+                        <marker date="1474784774863" expanded="true" signature="12999:13050"
+                                placeholder="SELECT * FRO..path..."/>
+                    </folding>
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/extensions/ino_user/class_ino_user.inc">
+            <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-11.107639">
+                    <caret line="235" column="42" selection-start-line="235" selection-start-column="42"
+                           selection-end-line="235" selection-end-column="42"/>
+                    <folding>
+                        <element signature="e#198#211#0#PHP" expanded="false"/>
+                        <marker date="1474868277985" expanded="true" signature="4938:4951"
+                                placeholder="SELECT * FRO..."/>
+                        <marker date="1474868277985" expanded="true" signature="5508:5521"
+                                placeholder="SELECT * FRO..."/>
+                        <marker date="1474868277985" expanded="true" signature="6107:6120"
+                                placeholder="SELECT * FRO..."/>
+                        <marker date="1474868277985" expanded="true" signature="6639:6652"
+                                placeholder="SELECT * FRO..."/>
+                        <marker date="1474868277985" expanded="true" signature="7347:7360"
+                                placeholder="SELECT * FRO..."/>
+                        <marker date="1474868277985" expanded="true" signature="7855:7868"
+                                placeholder="SELECT * FRO..."/>
+                        <marker date="1474868277985" expanded="true" signature="8410:8423"
+                                placeholder="SELECT * FRO..."/>
+                        <marker date="1474868277985" expanded="true" signature="9209:9268"
+                                placeholder="SELECT * fro..ino_user..."/>
+                        <marker date="1474868277985" expanded="true" signature="10143:10156"
+                                placeholder="SELECT * FRO..."/>
+                        <marker date="1474868277985" expanded="true" signature="10810:11280"
+                                placeholder="SELECT ino_u..."/>
+                        <marker date="1474868277985" expanded="true" signature="12228:12600"
+                                placeholder="SELECT ino_u..${static::$table_name}..."/>
+                        <marker date="1474868277985" expanded="true" signature="12880:12948"
+                                placeholder="SELECT * FRO..user..."/>
+                        <marker date="1474868277985" expanded="true" signature="13119:13157"
+                                placeholder="SELECT * FRO..user..."/>
+                        <marker date="1474868277985" expanded="true" signature="13387:13431"
+                                placeholder="SELECT * FRO..user..."/>
+                    </folding>
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/modules/hr/timesheet/time_sheet.inc">
+            <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="17.612904">
+                    <caret line="12" column="19" selection-start-line="12" selection-start-column="19"
+                           selection-end-line="12" selection-end-column="19"/>
+                    <folding/>
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/themes/slick/public.css">
+            <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.31627056">
+                    <caret line="1418" column="1" selection-start-line="1418" selection-start-column="1"
+                           selection-end-line="1418" selection-end-column="1"/>
+                    <folding/>
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/themes/simple/public.css">
+            <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.33333334">
+                    <caret line="2186" column="5" selection-start-line="2186" selection-start-column="5"
+                           selection-end-line="2186" selection-end-column="5"/>
+                    <folding/>
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/themes/default/public.css">
+            <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.33333334">
+                    <caret line="2397" column="5" selection-start-line="2397" selection-start-column="5"
+                           selection-end-line="2397" selection-end-column="5"/>
+                    <folding/>
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/themes/darkgrey/public.css">
+            <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.33333334">
+                    <caret line="2208" column="5" selection-start-line="2208" selection-start-column="5"
+                           selection-end-line="2208" selection-end-column="5"/>
+                    <folding/>
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/themes/square/public.css">
+            <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.7534722">
+                    <caret line="1912" column="17" selection-start-line="1912" selection-start-column="17"
+                           selection-end-line="1912" selection-end-column="17"/>
+                    <folding/>
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/modules/hr/timesheet/time_sheet_template.php">
+            <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-7.806452">
+                    <caret line="152" column="69" selection-start-line="152" selection-start-column="69"
+                           selection-end-line="152" selection-end-column="69"/>
+                    <folding/>
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/modules/hr/employee/class_hr_employee.inc">
+            <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-11.756945">
+                    <caret line="17" column="6" selection-start-line="17" selection-start-column="6"
+                           selection-end-line="17" selection-end-column="6"/>
+                    <folding>
+                        <marker date="1474874372337" expanded="true" signature="6235:6248"
+                                placeholder="SELECT * FRO..."/>
+                        <marker date="1474874372337" expanded="true" signature="6504:6517"
+                                placeholder="SELECT * FRO..."/>
+                        <marker date="1474874372337" expanded="true" signature="6781:6794"
+                                placeholder="SELECT * FRO..."/>
+                        <marker date="1474874372337" expanded="true" signature="7058:7071"
+                                placeholder="SELECT * FRO..."/>
+                        <marker date="1474874372337" expanded="true" signature="7360:7545"
+                                placeholder="SELECT * FRO..hr_employee..."/>
+                        <marker date="1474874372337" expanded="true" signature="7775:7851"
+                                placeholder="SELECT * FRO..hr_employee..."/>
+                    </folding>
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/modules/hr/timesheet/class_hr_timesheet_header.inc">
+            <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.30555555">
+                    <caret line="164" column="46" selection-start-line="164" selection-start-column="46"
+                           selection-end-line="164" selection-end-column="46"/>
+                    <folding>
+                        <marker date="1474873305304" expanded="true" signature="2588:2601"
+                                placeholder="SELECT * FRO..."/>
+                    </folding>
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/modules/hr/leave_entitlement/leave_entitlement_template.php">
+            <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-6.387097">
+                    <caret line="9" column="38" selection-start-line="9" selection-start-column="38"
+                           selection-end-line="9" selection-end-column="38"/>
+                    <folding/>
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/LICENSE.txt">
+            <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.11418685">
+                    <caret line="3" column="8" selection-start-line="3" selection-start-column="6"
+                           selection-end-line="3" selection-end-column="8"/>
+                    <folding/>
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/COPYRIGHT.txt">
+            <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                    <caret line="0" column="0" selection-start-line="0" selection-start-column="0"
+                           selection-end-line="0" selection-end-column="0"/>
+                    <folding/>
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/includes/basics/footer.inc">
+            <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.15277778">
+                    <caret line="10" column="26" selection-start-line="10" selection-start-column="26"
+                           selection-end-line="10" selection-end-column="26"/>
+                    <folding/>
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/define_const.inc">
+            <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.34375">
+                    <caret line="9" column="37" selection-start-line="9" selection-start-column="37"
+                           selection-end-line="9" selection-end-column="37"/>
+                    <folding/>
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/themes/darkgrey/footer.inc">
+            <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="2.3680556">
+                    <caret line="62" column="22" selection-start-line="62" selection-start-column="22"
+                           selection-end-line="62" selection-end-column="22"/>
+                    <folding/>
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/modules/sys/notification/class_sys_notification.inc">
+            <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-7.225806">
+                    <caret line="25" column="48" selection-start-line="25" selection-start-column="48"
+                           selection-end-line="25" selection-end-column="48"/>
+                    <folding>
+                        <marker date="1475049373582" expanded="true" signature="4229:4242"
+                                placeholder="SELECT * FRO..."/>
+                        <marker date="1475049373582" expanded="true" signature="4498:4511"
+                                placeholder="SELECT * FRO..."/>
+                        <marker date="1475049373582" expanded="true" signature="4775:4788"
+                                placeholder="SELECT * FRO..."/>
+                        <marker date="1475049373582" expanded="true" signature="7202:7216"
+                                placeholder="SELECT * FRO..${self::$table_name}..."/>
+                    </folding>
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/modules/hr/leave_transaction/class_hr_leave_transaction.inc">
+            <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.22569445">
+                    <caret line="129" column="44" selection-start-line="129" selection-start-column="44"
+                           selection-end-line="129" selection-end-column="44"/>
+                    <folding>
+                        <element signature="e#6#195#0#PHP" expanded="true"/>
+                        <marker date="1475049350426" expanded="true" signature="6658:6671"
+                                placeholder="SELECT * FRO..."/>
+                        <marker date="1475049350426" expanded="true" signature="6935:6948"
+                                placeholder="SELECT * FRO..."/>
+                        <marker date="1475049350426" expanded="true" signature="7228:7274"
+                                placeholder="SELECT SUM(l..."/>
+                    </folding>
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/form.php">
+            <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="49.7">
+                    <caret line="33" column="55" selection-start-line="33" selection-start-column="55"
+                           selection-end-line="33" selection-end-column="55"/>
+                    <folding/>
+                </state>
+            </provider>
+        </entry>
         <entry file="file://$PROJECT_DIR$/modules/sys/option/class.option_line.inc">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="58.774193">
-              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-              <folding>
-                <marker date="1475057808531" expanded="true" signature="1983:1997" placeholder="SELECT * FRO..${self::$table_name}..." />
-                <marker date="1475057808531" expanded="true" signature="2337:2462" placeholder="SELECT * FRO..${self::$table_name}..." />
-                <marker date="1475057808531" expanded="true" signature="2740:2923" placeholder="SELECT * FRO..option_line..." />
-                <marker date="1475057808531" expanded="true" signature="3191:4240" placeholder="CREATE TABLE..IF..." />
-              </folding>
-            </state>
-          </provider>
+            <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="58.774193">
+                    <caret line="2" column="6" selection-start-line="2" selection-start-column="6"
+                           selection-end-line="2" selection-end-column="6"/>
+                    <folding>
+                        <marker date="1475057808531" expanded="true" signature="1983:1997"
+                                placeholder="SELECT * FRO..${self::$table_name}..."/>
+                        <marker date="1475057808531" expanded="true" signature="2337:2462"
+                                placeholder="SELECT * FRO..${self::$table_name}..."/>
+                        <marker date="1475057808531" expanded="true" signature="2740:2923"
+                                placeholder="SELECT * FRO..option_line..."/>
+                        <marker date="1475057808531" expanded="true" signature="3191:4240"
+                                placeholder="CREATE TABLE..IF..."/>
+                    </folding>
+                </state>
+            </provider>
         </entry>
-      </file>
-      <file leaf-file-name="class.option_header.inc" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/general_class/trait_dbObject_t.inc">
+            <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-6.516129">
+                    <caret line="324" column="27" selection-start-line="324" selection-start-column="27"
+                           selection-end-line="324" selection-end-column="27"/>
+                    <folding>
+                        <marker date="1474702927446" expanded="true" signature="7739:7752"
+                                placeholder="SELECT * FRO..."/>
+                        <marker date="1474702927446" expanded="true" signature="9923:9937"
+                                placeholder="SELECT * FRO..${static::$table_name}..."/>
+                        <marker date="1474702927446" expanded="true" signature="10214:10262"
+                                placeholder="SELECT * FRO..${static::$table_name}..."/>
+                        <marker date="1474702927446" expanded="true" signature="10702:10723"
+                                placeholder="SELECT COUNT..${static::$table_name}..."/>
+                        <marker date="1474702927446" expanded="true" signature="11180:11193"
+                                placeholder="SELECT * FRO..."/>
+                        <marker date="1474702927446" expanded="true" signature="11875:11888"
+                                placeholder="SELECT * FRO..."/>
+                        <marker date="1474702927446" expanded="true" signature="12631:12644"
+                                placeholder="SELECT * FRO..."/>
+                        <marker date="1474702927446" expanded="true" signature="14280:14293"
+                                placeholder="SELECT * FRO..."/>
+                        <marker date="1474702927446" expanded="true" signature="14754:14767"
+                                placeholder="SELECT * FRO..."/>
+                        <marker date="1474702927446" expanded="true" signature="15700:15713"
+                                placeholder="SELECT * FRO..."/>
+                        <marker date="1474702927446" expanded="true" signature="16680:16693"
+                                placeholder="SELECT * FRO..."/>
+                        <marker date="1474702927446" expanded="true" signature="17160:17259"
+                                placeholder="SELECT * FRO..${static::$table_name}..."/>
+                        <marker date="1474702927446" expanded="true" signature="17485:17592"
+                                placeholder="SELECT * FRO..${static::$table_name}..."/>
+                        <marker date="1474702927446" expanded="true" signature="17869:17959"
+                                placeholder="SELECT * FRO..${static::$table_name}..."/>
+                        <marker date="1474702927446" expanded="true" signature="18939:19026"
+                                placeholder="SELECT * FRO..${static::$table_name}..."/>
+                        <marker date="1474702927446" expanded="true" signature="19239:19337"
+                                placeholder="SELECT * FRO..${static::$table_name}..."/>
+                        <marker date="1474702927446" expanded="true" signature="19574:19681"
+                                placeholder="SELECT * FRO..${static::$table_name}..."/>
+                        <marker date="1474702927446" expanded="true" signature="31717:31849" placeholder="..."/>
+                        <marker date="1474702927446" expanded="true" signature="32919:33051" placeholder="..."/>
+                        <marker date="1474702927446" expanded="true" signature="34077:34209" placeholder="..."/>
+                        <marker date="1474702927446" expanded="true" signature="38284:38458"
+                                placeholder="SELECT * FRO..${$class}..."/>
+                        <marker date="1474702927446" expanded="true" signature="44570:44704"
+                                placeholder="SELECT TABLE..tables..."/>
+                        <marker date="1474702927446" expanded="true" signature="45044:45179"
+                                placeholder="SELECT TABLE..tables..."/>
+                        <marker date="1474702927446" expanded="true" signature="45358:45455"
+                                placeholder="SELECT * fro..views..."/>
+                        <marker date="1474702927446" expanded="true" signature="45652:45758"
+                                placeholder="SELECT TABLE..tables..."/>
+                        <marker date="1474702927446" expanded="true" signature="45946:46074"
+                                placeholder="SELECT count..tables..."/>
+                        <marker date="1474702927446" expanded="true" signature="46301:46435"
+                                placeholder="SELECT TABLE..tables..."/>
+                        <marker date="1474702927446" expanded="true" signature="46659:46793"
+                                placeholder="SELECT TABLE..tables..."/>
+                    </folding>
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/download.php">
+            <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-3.0486112">
+                    <caret line="6" column="2" selection-start-line="6" selection-start-column="2"
+                           selection-end-line="6" selection-end-column="2"/>
+                    <folding/>
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/includes/general_class/class_inoform.inc">
+            <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.35069445">
+                    <caret line="2281" column="20" selection-start-line="2281" selection-start-column="20"
+                           selection-end-line="2281" selection-end-column="20"/>
+                    <folding>
+                        <marker date="1475051118542" expanded="true" signature="17009:17602" placeholder="..."/>
+                        <marker date="1475051118542" expanded="true" signature="17046:17602" placeholder="..."/>
+                        <marker date="1475051118542" expanded="true" signature="32193:32242" placeholder="..."/>
+                        <marker date="1475051118542" expanded="true" signature="38891:39004" placeholder="..."/>
+                        <marker date="1475051118542" expanded="true" signature="38929:39004" placeholder="..."/>
+                        <marker date="1475051118542" expanded="true" signature="38961:39004" placeholder="..."/>
+                        <marker date="1475051118542" expanded="true" signature="49320:49944" placeholder="..."/>
+                        <marker date="1475051118542" expanded="true" signature="49349:49524" placeholder="..."/>
+                        <marker date="1475051118542" expanded="true" signature="49385:49520" placeholder="..."/>
+                        <marker date="1475051118542" expanded="true" signature="49562:49878" placeholder="..."/>
+                        <marker date="1475051118542" expanded="true" signature="49736:49743" placeholder="..."/>
+                        <marker date="1475051118542" expanded="true" signature="50829:51453" placeholder="..."/>
+                        <marker date="1475051118542" expanded="true" signature="50858:51033" placeholder="..."/>
+                        <marker date="1475051118542" expanded="true" signature="50894:51029" placeholder="..."/>
+                        <marker date="1475051118542" expanded="true" signature="51071:51387" placeholder="..."/>
+                        <marker date="1475051118542" expanded="true" signature="51244:51251" placeholder="..."/>
+                        <marker date="1475051118542" expanded="true" signature="81424:81627" placeholder="..."/>
+                        <marker date="1475051118542" expanded="true" signature="83764:83967" placeholder="..."/>
+                        <marker date="1475051118542" expanded="true" signature="104926:104999" placeholder="..."/>
+                        <marker date="1475051118542" expanded="true" signature="105563:105617" placeholder="..."/>
+                        <marker date="1475051118542" expanded="true" signature="106339:106393" placeholder="..."/>
+                        <marker date="1475051118542" expanded="true" signature="111391:111413" placeholder="..."/>
+                    </folding>
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/modules/hr/leave_type/leave_type_template.php">
+            <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-1.2986112">
+                    <caret line="11" column="42" selection-start-line="11" selection-start-column="42"
+                           selection-end-line="11" selection-end-column="42"/>
+                    <folding/>
+                </state>
+            </provider>
+        </entry>
         <entry file="file://$PROJECT_DIR$/modules/sys/option/class.option_header.inc">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.806452">
-              <caret line="123" column="0" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
-              <folding>
-                <marker date="1474786383413" expanded="true" signature="5038:5052" placeholder="SELECT * FRO..${self::$table_name}..." />
-                <marker date="1474786383413" expanded="true" signature="5246:5328" placeholder="SELECT * FRO..${self::$table_name}..." />
-                <marker date="1474786383413" expanded="true" signature="5794:5869" placeholder="SELECT * FRO..${self::$table_name}..." />
-                <marker date="1474786383413" expanded="true" signature="6552:6632" placeholder="SELECT * FRO..${self::$table_name}..." />
-              </folding>
-            </state>
-          </provider>
+            <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-7.806452">
+                    <caret line="123" column="0" selection-start-line="123" selection-start-column="0"
+                           selection-end-line="123" selection-end-column="0"/>
+                    <folding>
+                        <marker date="1474786383413" expanded="true" signature="5038:5052"
+                                placeholder="SELECT * FRO..${self::$table_name}..."/>
+                        <marker date="1474786383413" expanded="true" signature="5246:5328"
+                                placeholder="SELECT * FRO..${self::$table_name}..."/>
+                        <marker date="1474786383413" expanded="true" signature="5794:5869"
+                                placeholder="SELECT * FRO..${self::$table_name}..."/>
+                        <marker date="1474786383413" expanded="true" signature="6552:6632"
+                                placeholder="SELECT * FRO..${self::$table_name}..."/>
+                    </folding>
+                </state>
+            </provider>
         </entry>
-      </file>
-    </leaf>
-  </component>
-  <component name="Git.Settings">
-    <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="FORCE_PUSH_ALLOWED" value="true" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="mock:///Dummy.txt" root0="SKIP_INSPECTION" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/engine/install/include/basics.inc" />
-        <option value="$PROJECT_DIR$/form.php" />
-        <option value="$PROJECT_DIR$/assets/vendor/ino-oracle/class_dbc.inc" />
-        <option value="$PROJECT_DIR$/assets/vendor/ino-oracle/class_dbObject.inc" />
-        <option value="$PROJECT_DIR$/custom/include/sd_so_header_include.inc" />
-        <option value="$PROJECT_DIR$/define_const.inc" />
-        <option value="$PROJECT_DIR$/includes/general_class/class_dbObject.inc" />
-        <option value="$PROJECT_DIR$/includes/general_class/trait_dbObject_t.inc" />
-        <option value="$PROJECT_DIR$/includes/functions/loader.inc" />
-        <option value="$PROJECT_DIR$/modules/sys/secondary/field_inst/class_sys_secondary_field_inst.inc" />
-        <option value="$PROJECT_DIR$/extensions/path/path_template.php" />
-        <option value="$PROJECT_DIR$/extensions/path/class_path.inc" />
-        <option value="$PROJECT_DIR$/extensions/login/user_login_template.php" />
-        <option value="$PROJECT_DIR$/modules/sys/option/class.option_header.inc" />
-        <option value="$PROJECT_DIR$/extensions/path/path.js" />
-        <option value="$PROJECT_DIR$/modules/hr/timesheet/time_sheet.inc" />
-        <option value="$PROJECT_DIR$/extensions/ino_user/class_ino_user.inc" />
-        <option value="$PROJECT_DIR$/modules/hr/timesheet/time_sheet_template.php" />
-        <option value="$PROJECT_DIR$/themes/slick/public.css" />
-        <option value="$PROJECT_DIR$/themes/simple/public.css" />
-        <option value="$PROJECT_DIR$/themes/default/public.css" />
-        <option value="$PROJECT_DIR$/themes/darkgrey/public.css" />
-        <option value="$PROJECT_DIR$/themes/square/public.css" />
-        <option value="$PROJECT_DIR$/modules/hr/timesheet/class_hr_timesheet_header.inc" />
-        <option value="$PROJECT_DIR$/modules/hr/employee/class_hr_employee.inc" />
-        <option value="$PROJECT_DIR$/modules/hr/leave_entitlement/leave_entitlement_template.php" />
-        <option value="$PROJECT_DIR$/modules/hr/leave_transaction/class_hr_leave_transaction.inc" />
-        <option value="$PROJECT_DIR$/modules/sys/notification/class_sys_notification.inc" />
-        <option value="$PROJECT_DIR$/includes/basics/footer.inc" />
-        <option value="$PROJECT_DIR$/themes/darkgrey/footer.inc" />
-        <option value="$PROJECT_DIR$/includes/general_class/class_inoform.inc" />
-        <option value="$PROJECT_DIR$/modules/hr/leave_type/leave_type_template.php" />
-        <option value="$PROJECT_DIR$/modules/hr/leave_type/class_hr_leave_type.inc" />
-        <option value="$PROJECT_DIR$/modules/sys/option/class.option_line.inc" />
-        <option value="$PROJECT_DIR$/download.php" />
-        <option value="$PROJECT_DIR$/modules/hr/leave_transaction/leave_transaction_template.php" />
-        <option value="$PROJECT_DIR$/modules/hr/leave_type/leave_type.js" />
-      </list>
-    </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" />
-  <component name="JsBuildToolPackageJson" detection-done="true" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-  </component>
-  <component name="PhpServers">
-    <servers />
-  </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
-  </component>
-  <component name="ProjectInspectionProfilesVisibleTreeState">
-    <entry key="Project Default">
-      <profile-state>
-        <expanded-state>
-          <State>
-            <id />
-          </State>
-          <State>
-            <id>CSS</id>
-          </State>
-          <State>
-            <id>Invalid elementsCSS</id>
-          </State>
-        </expanded-state>
-        <selected-state>
-          <State>
-            <id>CssInvalidPropertyValue</id>
-          </State>
-        </selected-state>
-      </profile-state>
-    </entry>
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
-  </component>
-  <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inoerp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inoerp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inoerp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inoerp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inoerp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inoerp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inoerp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="basic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inoerp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inoerp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inoerp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inoerp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hr" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inoerp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inoerp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hr" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="timesheet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inoerp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inoerp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hr" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="timesheet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="header_user" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inoerp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inoerp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hr" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leave_type" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inoerp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inoerp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hr" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leave_transaction" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inoerp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inoerp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hr" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leave_entitlement" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inoerp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inoerp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hr" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leave" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inoerp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inoerp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="includes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inoerp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inoerp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="includes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="general_class" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inoerp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inoerp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="includes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="functions" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inoerp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inoerp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="includes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="basics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inoerp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inoerp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="extensions" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inoerp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inoerp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="extensions" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="path" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inoerp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inoerp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="engine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inoerp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inoerp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="engine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="install" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inoerp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inoerp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="engine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="install" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="include" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inoerp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inoerp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="documents" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inoerp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inoerp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="documents" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hr" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inoerp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inoerp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ino-oracle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inoerp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inoerp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ino-oracle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dump" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inoerp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inoerp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ino-oracle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dump" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="old" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inoerp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inoerp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ino-oracle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="db" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
-    </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="hr_leave_&#9;null&#9;null&#10;footer&#9;FILE&#9;file://C:/xampp/htdocs/inoerp/themes/darkgrey/footer.inc&#10;copy&#9;FILE&#9;file://C:/xampp/htdocs/inoerp/COPYRIGHT.txt&#10;class_hr_leave_transaction.in&#9;FILE&#9;file://C:/xampp/htdocs/inoerp/modules/hr/leave_transaction/class_hr_leave_transaction.inc&#10;navi&#9;ACTION&#9;ActivateNavBar&#10;tr&#9;FILE&#9;file://C:/xampp/htdocs/inoerp/includes/general_class/trait_dbObject_t.inc" />
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
-      <TestRunner />
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
-      <BehatRunner />
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run-script" />
-      <scripts />
-      <envs />
-      <method />
-    </configuration>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false" />
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
-  <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="04ba1e3e-3a2f-4870-b516-256620047632" name="Default" comment="" />
-      <created>1474456313703</created>
-      <option name="number" value="Default" />
-      <updated>1474456313703</updated>
-    </task>
-    <servers />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
-    <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24304539" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-    </layout>
-  </component>
-  <component name="Vcs.Log.UiProperties">
-    <option name="RECENTLY_FILTERED_USER_GROUPS">
-      <collection />
-    </option>
-    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-      <collection />
-    </option>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/form.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/engine/install/include/basics.inc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="57" selection-start-line="6" selection-start-column="57" selection-end-line="6" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/includes/basics/basics.inc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom/include/xxxpo_header_include.inc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom/include/sd_so_header_include.inc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22916667">
-          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/PDO.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.43055555">
-          <caret line="724" column="24" selection-start-line="724" selection-start-column="24" selection-end-line="724" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/vendor/ino-oracle/class_dbObject.inc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4045139">
-          <caret line="204" column="56" selection-start-line="204" selection-start-column="56" selection-end-line="204" selection-end-column="56" />
-          <folding>
-            <marker date="1474698144549" expanded="true" signature="9480:9494" placeholder="SELECT * FRO..${static::$table_name}..." />
-            <marker date="1474698144549" expanded="true" signature="9771:9826" placeholder="SELECT * FRO..${static::$table_name}..." />
-            <marker date="1474698144549" expanded="true" signature="10266:10287" placeholder="SELECT COUNT..${static::$table_name}..." />
-            <marker date="1474698144549" expanded="true" signature="10744:10757" placeholder="SELECT * FRO..." />
-            <marker date="1474698144549" expanded="true" signature="11556:11569" placeholder="SELECT * FRO..." />
-            <marker date="1474698144549" expanded="true" signature="12219:12232" placeholder="SELECT * FRO..." />
-            <marker date="1474698144549" expanded="true" signature="12585:12598" placeholder="SELECT * FRO..." />
-            <marker date="1474698144549" expanded="true" signature="14234:14247" placeholder="SELECT * FRO..." />
-            <marker date="1474698144549" expanded="true" signature="14708:14721" placeholder="SELECT * FRO..." />
-            <marker date="1474698144549" expanded="true" signature="15661:15674" placeholder="SELECT * FRO..." />
-            <marker date="1474698144549" expanded="true" signature="16641:16654" placeholder="SELECT * FRO..." />
-            <marker date="1474698144549" expanded="true" signature="17106:17210" placeholder="SELECT * FRO..${static::$table_name}..." />
-            <marker date="1474698144549" expanded="true" signature="17436:17548" placeholder="SELECT * FRO..${static::$table_name}..." />
-            <marker date="1474698144549" expanded="true" signature="17823:17913" placeholder="SELECT * FRO..${static::$table_name}..." />
-            <marker date="1474698144549" expanded="true" signature="18893:18978" placeholder="SELECT * FRO..${static::$table_name}..." />
-            <marker date="1474698144549" expanded="true" signature="19191:19287" placeholder="SELECT * FRO..${static::$table_name}..." />
-            <marker date="1474698144549" expanded="true" signature="19524:19636" placeholder="SELECT * FRO..${static::$table_name}..." />
-            <marker date="1474698144549" expanded="true" signature="23956:23997" placeholder="SELECT ${$ne..DUAL..." />
-            <marker date="1474698144549" expanded="true" signature="31848:31980" placeholder="..." />
-            <marker date="1474698144549" expanded="true" signature="33002:33134" placeholder="..." />
-            <marker date="1474698144549" expanded="true" signature="34160:34292" placeholder="..." />
-            <marker date="1474698144549" expanded="true" signature="38367:38548" placeholder="SELECT * FRO..${$class}..." />
-            <marker date="1474698144549" expanded="true" signature="44661:44795" placeholder="SELECT TABLE..tables..." />
-            <marker date="1474698144549" expanded="true" signature="45135:45270" placeholder="SELECT TABLE..tables..." />
-            <marker date="1474698144549" expanded="true" signature="45449:45546" placeholder="SELECT * fro..views..." />
-            <marker date="1474698144549" expanded="true" signature="45743:45849" placeholder="SELECT TABLE..tables..." />
-            <marker date="1474698144549" expanded="true" signature="46037:46165" placeholder="SELECT count..tables..." />
-            <marker date="1474698144549" expanded="true" signature="46392:46526" placeholder="SELECT TABLE..tables..." />
-            <marker date="1474698144549" expanded="true" signature="46750:46884" placeholder="SELECT TABLE..tables..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/includes/basics/basics.inc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/vendor/ino-oracle/class_dbc.inc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9236111">
-          <caret line="114" column="2" selection-start-line="114" selection-start-column="2" selection-end-line="114" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/includes/general_class/class_dbObject.inc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.121527776">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/extensions/url_alias/class_ext_url_alias.inc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.1290324">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding>
-            <element signature="e#196#210#0#PHP" expanded="false" />
-            <marker date="1473950646000" expanded="true" signature="1483:1496" placeholder="SELECT * FRO..." />
-            <marker date="1473950646000" expanded="true" signature="1755:1768" placeholder="SELECT * FRO..." />
-            <marker date="1473950646000" expanded="true" signature="2059:2072" placeholder="SELECT * FRO..." />
-            <marker date="1473950646000" expanded="true" signature="2304:2317" placeholder="SELECT * FRO..." />
-            <marker date="1473950646000" expanded="true" signature="2563:2576" placeholder="SELECT * FRO..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/engine/install/include/basics.inc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5954861">
-          <caret line="44" column="20" selection-start-line="44" selection-start-column="20" selection-end-line="44" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/sys/secondary/field_inst/class_sys_secondary_field_inst.inc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.7465277">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-          <folding>
-            <marker date="1474783986944" expanded="true" signature="4567:4580" placeholder="SELECT * FRO..." />
-            <marker date="1474783986944" expanded="true" signature="8788:8801" placeholder="SELECT * FRO..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/includes/functions/loader.inc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.576389">
-          <caret line="523" column="47" selection-start-line="523" selection-start-column="47" selection-end-line="523" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/extensions/login/user_login_template.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.104166664">
-          <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/extensions/path/path.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39868203">
-          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/extensions/path/path_template.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9548611">
-          <caret line="40" column="31" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/extensions/path/class_path.inc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4565972">
-          <caret line="547" column="16" selection-start-line="547" selection-start-column="16" selection-end-line="547" selection-end-column="16" />
-          <folding>
-            <element signature="e#198#211#0#PHP" expanded="false" />
-            <marker date="1474784774863" expanded="true" signature="3228:3280" placeholder="SELECT path_..path..." />
-            <marker date="1474784774863" expanded="true" signature="3857:3950" placeholder="SELECT path_..path..." />
-            <marker date="1474784774863" expanded="true" signature="4095:4170" placeholder="SELECT * FRO..path..." />
-            <marker date="1474784774863" expanded="true" signature="4635:4662" placeholder="SELECT * fro..path..." />
-            <marker date="1474784774863" expanded="true" signature="6148:6288" placeholder="SELECT path...." />
-            <marker date="1474784774863" expanded="true" signature="6821:6961" placeholder="SELECT path...." />
-            <marker date="1474784774863" expanded="true" signature="7349:7362" placeholder="SELECT * FRO..." />
-            <marker date="1474784774863" expanded="true" signature="7782:7795" placeholder="SELECT * FRO..." />
-            <marker date="1474784774863" expanded="true" signature="8273:8287" placeholder="SELECT * FRO..${self::$table_name}..." />
-            <marker date="1474784774863" expanded="true" signature="8507:8578" placeholder="SELECT * FRO..${self::$table_name}..." />
-            <marker date="1474784774863" expanded="true" signature="8842:8927" placeholder="SELECT * FRO..${self::$table_name}..." />
-            <marker date="1474784774863" expanded="true" signature="9173:9252" placeholder="SELECT * FRO..${self::$table_name}..." />
-            <marker date="1474784774863" expanded="true" signature="12058:12182" placeholder="SELECT path_..path..." />
-            <marker date="1474784774863" expanded="true" signature="12348:12409" placeholder="SELECT path_..path..." />
-            <marker date="1474784774863" expanded="true" signature="12999:13050" placeholder="SELECT * FRO..path..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/extensions/ino_user/class_ino_user.inc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.107639">
-          <caret line="235" column="42" selection-start-line="235" selection-start-column="42" selection-end-line="235" selection-end-column="42" />
-          <folding>
-            <element signature="e#198#211#0#PHP" expanded="false" />
-            <marker date="1474868277985" expanded="true" signature="4938:4951" placeholder="SELECT * FRO..." />
-            <marker date="1474868277985" expanded="true" signature="5508:5521" placeholder="SELECT * FRO..." />
-            <marker date="1474868277985" expanded="true" signature="6107:6120" placeholder="SELECT * FRO..." />
-            <marker date="1474868277985" expanded="true" signature="6639:6652" placeholder="SELECT * FRO..." />
-            <marker date="1474868277985" expanded="true" signature="7347:7360" placeholder="SELECT * FRO..." />
-            <marker date="1474868277985" expanded="true" signature="7855:7868" placeholder="SELECT * FRO..." />
-            <marker date="1474868277985" expanded="true" signature="8410:8423" placeholder="SELECT * FRO..." />
-            <marker date="1474868277985" expanded="true" signature="9209:9268" placeholder="SELECT * fro..ino_user..." />
-            <marker date="1474868277985" expanded="true" signature="10143:10156" placeholder="SELECT * FRO..." />
-            <marker date="1474868277985" expanded="true" signature="10810:11280" placeholder="SELECT ino_u..." />
-            <marker date="1474868277985" expanded="true" signature="12228:12600" placeholder="SELECT ino_u..${static::$table_name}..." />
-            <marker date="1474868277985" expanded="true" signature="12880:12948" placeholder="SELECT * FRO..user..." />
-            <marker date="1474868277985" expanded="true" signature="13119:13157" placeholder="SELECT * FRO..user..." />
-            <marker date="1474868277985" expanded="true" signature="13387:13431" placeholder="SELECT * FRO..user..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/hr/timesheet/time_sheet.inc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="17.612904">
-          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/slick/public.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31627056">
-          <caret line="1418" column="1" selection-start-line="1418" selection-start-column="1" selection-end-line="1418" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/simple/public.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334">
-          <caret line="2186" column="5" selection-start-line="2186" selection-start-column="5" selection-end-line="2186" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/default/public.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334">
-          <caret line="2397" column="5" selection-start-line="2397" selection-start-column="5" selection-end-line="2397" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/darkgrey/public.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334">
-          <caret line="2208" column="5" selection-start-line="2208" selection-start-column="5" selection-end-line="2208" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/square/public.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7534722">
-          <caret line="1912" column="17" selection-start-line="1912" selection-start-column="17" selection-end-line="1912" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/hr/timesheet/time_sheet_template.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.806452">
-          <caret line="152" column="69" selection-start-line="152" selection-start-column="69" selection-end-line="152" selection-end-column="69" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/hr/employee/class_hr_employee.inc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.756945">
-          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
-          <folding>
-            <marker date="1474874372337" expanded="true" signature="6235:6248" placeholder="SELECT * FRO..." />
-            <marker date="1474874372337" expanded="true" signature="6504:6517" placeholder="SELECT * FRO..." />
-            <marker date="1474874372337" expanded="true" signature="6781:6794" placeholder="SELECT * FRO..." />
-            <marker date="1474874372337" expanded="true" signature="7058:7071" placeholder="SELECT * FRO..." />
-            <marker date="1474874372337" expanded="true" signature="7360:7545" placeholder="SELECT * FRO..hr_employee..." />
-            <marker date="1474874372337" expanded="true" signature="7775:7851" placeholder="SELECT * FRO..hr_employee..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/hr/timesheet/class_hr_timesheet_header.inc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30555555">
-          <caret line="164" column="46" selection-start-line="164" selection-start-column="46" selection-end-line="164" selection-end-column="46" />
-          <folding>
-            <marker date="1474873305304" expanded="true" signature="2588:2601" placeholder="SELECT * FRO..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/hr/leave_entitlement/leave_entitlement_template.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.387097">
-          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LICENSE.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.11418685">
-          <caret line="3" column="8" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/COPYRIGHT.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/includes/basics/footer.inc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15277778">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/define_const.inc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34375">
-          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/darkgrey/footer.inc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.3680556">
-          <caret line="62" column="22" selection-start-line="62" selection-start-column="22" selection-end-line="62" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/sys/notification/class_sys_notification.inc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.225806">
-          <caret line="25" column="48" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
-          <folding>
-            <marker date="1475049373582" expanded="true" signature="4229:4242" placeholder="SELECT * FRO..." />
-            <marker date="1475049373582" expanded="true" signature="4498:4511" placeholder="SELECT * FRO..." />
-            <marker date="1475049373582" expanded="true" signature="4775:4788" placeholder="SELECT * FRO..." />
-            <marker date="1475049373582" expanded="true" signature="7202:7216" placeholder="SELECT * FRO..${self::$table_name}..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/hr/leave_transaction/class_hr_leave_transaction.inc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22569445">
-          <caret line="129" column="44" selection-start-line="129" selection-start-column="44" selection-end-line="129" selection-end-column="44" />
-          <folding>
-            <element signature="e#6#195#0#PHP" expanded="true" />
-            <marker date="1475049350426" expanded="true" signature="6658:6671" placeholder="SELECT * FRO..." />
-            <marker date="1475049350426" expanded="true" signature="6935:6948" placeholder="SELECT * FRO..." />
-            <marker date="1475049350426" expanded="true" signature="7228:7274" placeholder="SELECT SUM(l..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/form.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="49.7">
-          <caret line="33" column="55" selection-start-line="33" selection-start-column="55" selection-end-line="33" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/sys/option/class.option_line.inc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="58.774193">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-          <folding>
-            <marker date="1475057808531" expanded="true" signature="1983:1997" placeholder="SELECT * FRO..${self::$table_name}..." />
-            <marker date="1475057808531" expanded="true" signature="2337:2462" placeholder="SELECT * FRO..${self::$table_name}..." />
-            <marker date="1475057808531" expanded="true" signature="2740:2923" placeholder="SELECT * FRO..option_line..." />
-            <marker date="1475057808531" expanded="true" signature="3191:4240" placeholder="CREATE TABLE..IF..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/includes/general_class/trait_dbObject_t.inc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.516129">
-          <caret line="324" column="27" selection-start-line="324" selection-start-column="27" selection-end-line="324" selection-end-column="27" />
-          <folding>
-            <marker date="1474702927446" expanded="true" signature="7739:7752" placeholder="SELECT * FRO..." />
-            <marker date="1474702927446" expanded="true" signature="9923:9937" placeholder="SELECT * FRO..${static::$table_name}..." />
-            <marker date="1474702927446" expanded="true" signature="10214:10262" placeholder="SELECT * FRO..${static::$table_name}..." />
-            <marker date="1474702927446" expanded="true" signature="10702:10723" placeholder="SELECT COUNT..${static::$table_name}..." />
-            <marker date="1474702927446" expanded="true" signature="11180:11193" placeholder="SELECT * FRO..." />
-            <marker date="1474702927446" expanded="true" signature="11875:11888" placeholder="SELECT * FRO..." />
-            <marker date="1474702927446" expanded="true" signature="12631:12644" placeholder="SELECT * FRO..." />
-            <marker date="1474702927446" expanded="true" signature="14280:14293" placeholder="SELECT * FRO..." />
-            <marker date="1474702927446" expanded="true" signature="14754:14767" placeholder="SELECT * FRO..." />
-            <marker date="1474702927446" expanded="true" signature="15700:15713" placeholder="SELECT * FRO..." />
-            <marker date="1474702927446" expanded="true" signature="16680:16693" placeholder="SELECT * FRO..." />
-            <marker date="1474702927446" expanded="true" signature="17160:17259" placeholder="SELECT * FRO..${static::$table_name}..." />
-            <marker date="1474702927446" expanded="true" signature="17485:17592" placeholder="SELECT * FRO..${static::$table_name}..." />
-            <marker date="1474702927446" expanded="true" signature="17869:17959" placeholder="SELECT * FRO..${static::$table_name}..." />
-            <marker date="1474702927446" expanded="true" signature="18939:19026" placeholder="SELECT * FRO..${static::$table_name}..." />
-            <marker date="1474702927446" expanded="true" signature="19239:19337" placeholder="SELECT * FRO..${static::$table_name}..." />
-            <marker date="1474702927446" expanded="true" signature="19574:19681" placeholder="SELECT * FRO..${static::$table_name}..." />
-            <marker date="1474702927446" expanded="true" signature="31717:31849" placeholder="..." />
-            <marker date="1474702927446" expanded="true" signature="32919:33051" placeholder="..." />
-            <marker date="1474702927446" expanded="true" signature="34077:34209" placeholder="..." />
-            <marker date="1474702927446" expanded="true" signature="38284:38458" placeholder="SELECT * FRO..${$class}..." />
-            <marker date="1474702927446" expanded="true" signature="44570:44704" placeholder="SELECT TABLE..tables..." />
-            <marker date="1474702927446" expanded="true" signature="45044:45179" placeholder="SELECT TABLE..tables..." />
-            <marker date="1474702927446" expanded="true" signature="45358:45455" placeholder="SELECT * fro..views..." />
-            <marker date="1474702927446" expanded="true" signature="45652:45758" placeholder="SELECT TABLE..tables..." />
-            <marker date="1474702927446" expanded="true" signature="45946:46074" placeholder="SELECT count..tables..." />
-            <marker date="1474702927446" expanded="true" signature="46301:46435" placeholder="SELECT TABLE..tables..." />
-            <marker date="1474702927446" expanded="true" signature="46659:46793" placeholder="SELECT TABLE..tables..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/download.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.0486112">
-          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/includes/general_class/class_inoform.inc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35069445">
-          <caret line="2281" column="20" selection-start-line="2281" selection-start-column="20" selection-end-line="2281" selection-end-column="20" />
-          <folding>
-            <marker date="1475051118542" expanded="true" signature="17009:17602" placeholder="..." />
-            <marker date="1475051118542" expanded="true" signature="17046:17602" placeholder="..." />
-            <marker date="1475051118542" expanded="true" signature="32193:32242" placeholder="..." />
-            <marker date="1475051118542" expanded="true" signature="38891:39004" placeholder="..." />
-            <marker date="1475051118542" expanded="true" signature="38929:39004" placeholder="..." />
-            <marker date="1475051118542" expanded="true" signature="38961:39004" placeholder="..." />
-            <marker date="1475051118542" expanded="true" signature="49320:49944" placeholder="..." />
-            <marker date="1475051118542" expanded="true" signature="49349:49524" placeholder="..." />
-            <marker date="1475051118542" expanded="true" signature="49385:49520" placeholder="..." />
-            <marker date="1475051118542" expanded="true" signature="49562:49878" placeholder="..." />
-            <marker date="1475051118542" expanded="true" signature="49736:49743" placeholder="..." />
-            <marker date="1475051118542" expanded="true" signature="50829:51453" placeholder="..." />
-            <marker date="1475051118542" expanded="true" signature="50858:51033" placeholder="..." />
-            <marker date="1475051118542" expanded="true" signature="50894:51029" placeholder="..." />
-            <marker date="1475051118542" expanded="true" signature="51071:51387" placeholder="..." />
-            <marker date="1475051118542" expanded="true" signature="51244:51251" placeholder="..." />
-            <marker date="1475051118542" expanded="true" signature="81424:81627" placeholder="..." />
-            <marker date="1475051118542" expanded="true" signature="83764:83967" placeholder="..." />
-            <marker date="1475051118542" expanded="true" signature="104926:104999" placeholder="..." />
-            <marker date="1475051118542" expanded="true" signature="105563:105617" placeholder="..." />
-            <marker date="1475051118542" expanded="true" signature="106339:106393" placeholder="..." />
-            <marker date="1475051118542" expanded="true" signature="111391:111413" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/hr/leave_type/leave_type_template.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.2986112">
-          <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/sys/option/class.option_header.inc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.806452">
-          <caret line="123" column="0" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
-          <folding>
-            <marker date="1474786383413" expanded="true" signature="5038:5052" placeholder="SELECT * FRO..${self::$table_name}..." />
-            <marker date="1474786383413" expanded="true" signature="5246:5328" placeholder="SELECT * FRO..${self::$table_name}..." />
-            <marker date="1474786383413" expanded="true" signature="5794:5869" placeholder="SELECT * FRO..${self::$table_name}..." />
-            <marker date="1474786383413" expanded="true" signature="6552:6632" placeholder="SELECT * FRO..${self::$table_name}..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/hr/leave_transaction/leave_transaction_template.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.967742">
-          <caret line="71" column="52" selection-start-line="71" selection-start-column="52" selection-end-line="71" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/hr/leave_type/leave_type.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3261944">
-          <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/favicon.ico">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/hr/leave_type/class_hr_leave_type.inc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4861111">
-          <caret line="99" column="21" selection-start-line="99" selection-start-column="21" selection-end-line="99" selection-end-column="21" />
-          <folding>
-            <marker date="1475055977588" expanded="true" signature="2744:2757" placeholder="SELECT * FRO..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-  </component>
+        <entry file="file://$PROJECT_DIR$/modules/hr/leave_transaction/leave_transaction_template.php">
+            <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-4.967742">
+                    <caret line="71" column="52" selection-start-line="71" selection-start-column="52"
+                           selection-end-line="71" selection-end-column="52"/>
+                    <folding/>
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/modules/hr/leave_type/leave_type.js">
+            <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.3261944">
+                    <caret line="9" column="49" selection-start-line="9" selection-start-column="49"
+                           selection-end-line="9" selection-end-column="49"/>
+                    <folding/>
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/favicon.ico">
+            <provider selected="true" editor-type-id="images">
+                <state/>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/modules/hr/leave_type/class_hr_leave_type.inc">
+            <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.4861111">
+                    <caret line="99" column="21" selection-start-line="99" selection-start-column="21"
+                           selection-end-line="99" selection-end-column="21"/>
+                    <folding>
+                        <marker date="1475055977588" expanded="true" signature="2744:2757"
+                                placeholder="SELECT * FRO..."/>
+                    </folding>
+                </state>
+            </provider>
+        </entry>
+    </component>
 </project>
