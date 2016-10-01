@@ -1989,7 +1989,7 @@ hr.grey-divider {
     padding: 0 5px;
     color: #337ab7;
     content: ">\00a0";
-    font-weight: 2 boldem;
+    font-weight: bold;
 }
 
 ol {
@@ -2396,6 +2396,7 @@ ul.single-column li {
     #path_by_module .list-line-ul li {
         background-color: #fff;
     }
+
     #path_by_module ul.child_menu > li {
         width: 340px;
     }
