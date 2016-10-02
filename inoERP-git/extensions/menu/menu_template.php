@@ -71,7 +71,7 @@ inoERP
                             <th><?php echo gettext('Title') ?></th>
                             <th><?php echo gettext('Path') ?></th>
                             <th><?php echo gettext('External Link (Full Path)') ?></th>
-                            <th><?php echo gettext('Intenal Link (Relative Path)') ?></th>
+                            <th><?php echo gettext('Internal Link (Relative Path)') ?></th>
                         </tr>
                         </thead>
                         <tbody class="form_data_line_tbody">
