@@ -46,7 +46,7 @@ include_once("includes/functions/loader.inc");
     }
     ?>
     <meta name="keywords" content="ERP,PHP ERP,Open Source ERP ">
-    <title><?php echo isset($pageTitle) ? $pageTitle . ' - inoERP!' : ' inoERP! ' ?></title>
+    <title><?php echo isset($pageTitle) ? $pageTitle . ' - ISTL ERP!' : ' ISTL ERP! ' ?></title>
     <link rel="shortcut icon" type="image/x-icon" href="files/favicon.ico">
     <link href="<?php
     //  echo THEME_URL;
@@ -156,7 +156,7 @@ include_once("includes/functions/loader.inc");
                 echo !empty($si->logo_path) ? $si->logo_path : 'files/logo.png'
                 ?>" class="logo_image" alt="logo"/>
                 <a href="<?php echo HOME_URL; ?>"
-                   class="navbar-brand"><?php echo !empty($si->site_name) ? $si->site_name : 'inoERP'; ?></a>
+                   class="navbar-brand"><?php echo !empty($si->site_name) ? $si->site_name : 'ISTL ERP'; ?></a>
             </div>
             <div id="navbar-collapse-1"
                  class="navbar-collapse collapse navbar-right"> <?php echo $menu_line->show_menu_list(1); ?></div>
