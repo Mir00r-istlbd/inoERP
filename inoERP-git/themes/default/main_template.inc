@@ -265,16 +265,17 @@
             </div>
             <div id='overlay' data-actionmsg='Loading..'></div>
         </div>
+
         <!--   Dont Change Anything Below This Row-->
-        <div class="col-sm-12 col-md-10 col-md-offset-2 mainbar">
+        <!--<div class="col-sm-12 col-md-10 col-md-offset-2 mainbar">
             <div class="hidden" id="document_history"></div>
             <div class="footer-menu">
-                <div id="half_copyrights" style="background-color:<?php echo $si->heading_color; ?>">
+                <div id="half_copyrights" style="background-color:<?php /*echo $si->heading_color; */?>">
                     <div class="pull-left">
                         <?php
-                        global $si;
+/*                        global $si;
                         echo nl2br($si->footer_message);
-                        ?>
+                        */?>
                     </div>
                     <ul id="minform-list-bottom" class="list-group pull-left">
                         <li> | Brightness</li>
@@ -303,8 +304,9 @@
                     </ul>
                 </div>
             </div><!-- end large-7 -->
+
         </div>
-    </div>
+    </div>-->
 
 
     <div class="row">

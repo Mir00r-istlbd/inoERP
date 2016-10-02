@@ -182,7 +182,7 @@ trait dbObject_t
 
     public function findBySql_array($sql = "")
     {
-        $dbc;
+        global $dbc;
         if (empty($dbc->connection)) {
             $dbc = new dbc();
         }
