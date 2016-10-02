@@ -177,51 +177,51 @@
                             ?>
                         </div>
                     </div>
-                    <h3 class="clickable nav-panel clipboard-data"
-                        style="background-color:<?php echo $si->heading_color; ?>"><i
-                            class="fa fa-clipboard"></i> <?php echo gettext('Clipboard') ?></h3>
-
-                    <div id="left-clipboard">
-                        <div id="left-clipboard-icons">
-                            <i class="fa fa-save save-clipboard clickable"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                            <i class="fa fa-eraser clear-clipboard clickable"></i>
-                        </div>
-                        <div id="left-clipboard-data">
-                        </div>
-                    </div>
-                    <h3 class="clickable nav-panel minform-data"
-                        style="background-color:<?php echo $si->heading_color; ?>"><i
-                            class="fa fa-file-text"></i> <?php echo gettext('Minimized Forms') ?></h3>
-
-                    <div id="left-minform">
-                        <div id="left-minform-data">
-                            <ul id="minform-list" class="list-group"></ul>
-                        </div>
-                    </div>
-                    <h3 class="clickable nav-panel event-cal-h"
-                        style="background-color:<?php echo $si->heading_color; ?>"><i
-                            class="fa fa-calendar"></i> <?php echo gettext('Event Calendar') ?></h3>
-
-                    <div id="left-event-cal">
-                        <div id="event-datepicker"></div>
-                    </div>
-                    <h3 class="clickable nav-panel favourites-h"
-                        style="background-color:<?php echo $si->heading_color; ?>" title="Favourites"><i
-                            class="fa fa-star-o"></i> <?php echo gettext('Favourites') ?></h3>
-
-                    <div id="left-favourites">
-                        <div
-                            id="favourites-links"><?php echo $fav->show_currentUser_fav(false, 'class="btn-group-vertical" role="group" aria-label="..."', 'list-group-item'); ?></div>
-                    </div>
-                    <h3 class="clickable nav-panel recent-visits"
-                        style="background-color:<?php echo $si->heading_color; ?>"><i
-                            class="fa fa-history"></i> <?php echo gettext('Recent Visits') ?></h3>
-
-                    <div>
-                        <div id="recent-visits">
-                            <?php echo ino_recent_visits(); ?>
-                        </div>
-                    </div>
+<!--                    <h3 class="clickable nav-panel clipboard-data"-->
+<!--                        style="background-color:--><?php //echo $si->heading_color; ?><!--"><i-->
+<!--                            class="fa fa-clipboard"></i> --><?php //echo gettext('Clipboard') ?><!--</h3>-->
+<!---->
+<!--                    <div id="left-clipboard">-->
+<!--                        <div id="left-clipboard-icons">-->
+<!--                            <i class="fa fa-save save-clipboard clickable"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->
+<!--                            <i class="fa fa-eraser clear-clipboard clickable"></i>-->
+<!--                        </div>-->
+<!--                        <div id="left-clipboard-data">-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                    <h3 class="clickable nav-panel minform-data"-->
+<!--                        style="background-color:--><?php //echo $si->heading_color; ?><!--"><i-->
+<!--                            class="fa fa-file-text"></i> --><?php //echo gettext('Minimized Forms') ?><!--</h3>-->
+<!---->
+<!--                    <div id="left-minform">-->
+<!--                        <div id="left-minform-data">-->
+<!--                            <ul id="minform-list" class="list-group"></ul>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                    <h3 class="clickable nav-panel event-cal-h"-->
+<!--                        style="background-color:--><?php //echo $si->heading_color; ?><!--"><i-->
+<!--                            class="fa fa-calendar"></i> --><?php //echo gettext('Event Calendar') ?><!--</h3>-->
+<!---->
+<!--                    <div id="left-event-cal">-->
+<!--                        <div id="event-datepicker"></div>-->
+<!--                    </div>-->
+<!--                    <h3 class="clickable nav-panel favourites-h"-->
+<!--                        style="background-color:--><?php //echo $si->heading_color; ?><!--" title="Favourites"><i-->
+<!--                            class="fa fa-star-o"></i> --><?php //echo gettext('Favourites') ?><!--</h3>-->
+<!---->
+<!--                    <div id="left-favourites">-->
+<!--                        <div-->
+<!--                            id="favourites-links">--><?php //echo $fav->show_currentUser_fav(false, 'class="btn-group-vertical" role="group" aria-label="..."', 'list-group-item'); ?><!--</div>-->
+<!--                    </div>-->
+<!--                    <h3 class="clickable nav-panel recent-visits"-->
+<!--                        style="background-color:--><?php //echo $si->heading_color; ?><!--"><i-->
+<!--                            class="fa fa-history"></i> --><?php //echo gettext('Recent Visits') ?><!--</h3>-->
+<!---->
+<!--                    <div>-->
+<!--                        <div id="recent-visits">-->
+<!--                            --><?php //echo ino_recent_visits(); ?>
+<!--                        </div>-->
+<!--                    </div>-->
                 </div>
             </div>
         </div>
