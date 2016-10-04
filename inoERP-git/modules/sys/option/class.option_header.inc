@@ -24,7 +24,7 @@ class option_header extends dbObject
     public static $system_info = [
         'name' => 'Option',
         'number' => '9105',
-        'description' => 'Create & Mainten Options',
+        'description' => 'Create & Maintain Options',
         'version' => '0.1.1',
         'db_version' => '1001',
         'mod_version' => '1.1.1',
