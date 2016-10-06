@@ -74,7 +74,7 @@
        echo $f->text_area_ap(array('name' => 'job_details', 'value' => $$class->job_details,
         'row_size' => '10', 'column_size' => '90'));
        ?> 	
-      </div> 
+      </div>
      </div> 
      <div id="tabsLine-2"  class="tabContent">
       <div><label class="text_area_label"><?php echo gettext('Primary Responsibility') ?></label><?php
