@@ -1268,7 +1268,7 @@ EOD;
         echo $this->text_field($field_name, $$class_second->$field_name, '8', $field_name, $div_class, '', 1);
     }
 
-    public static function text_field_d2rm($field_name, $div_class = "")
+    public function text_field_d2rm($field_name, $div_class = "")
     {
         global $class_second, $$class_second;
         echo $this->text_field($field_name, $$class_second->$field_name, '20', $field_name, $div_class, 1, 1);
