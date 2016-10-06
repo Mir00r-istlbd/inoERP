@@ -22,6 +22,8 @@
                             <li><?php $f->l_text_field_d('first_name'); ?>                    </li>
                             <li><?php $f->l_text_field_d('last_name'); ?>                    </li>
                             <li><?php $f->l_text_field_d('title'); ?>                    </li>
+                            <li><?php $f->l_text_field_d('father\'s_name'); ?>                    </li>
+                            <li><?php $f->l_text_field_d('mother\'s_name'); ?>                    </li>
                             <li><?php $f->l_select_field_from_object('gender', hr_employee::gender(), 'option_line_code', 'option_line_value', $$class->gender, '', 'gender', '', $readonly); ?>              </li>
                             <li><?php $f->l_select_field_from_object('person_type', hr_employee::person_type(), 'option_line_code', 'option_line_value', $$class->person_type, '', 'person_type', 1, $readonly); ?>              </li>
                             <li><?php $f->l_select_field_from_object('identification_type', hr_employee::identification_type(), 'option_line_code', 'option_line_value', $$class->identification_type, '', 'identification_type', 1, $readonly); ?>              </li>

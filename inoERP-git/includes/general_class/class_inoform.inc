@@ -209,7 +209,7 @@ class inoform
         'user_group_access',
         'wip_accounting_group'
     ];
-    public $pageTitle = " inoFrom - All Forms "; //page Title
+    public $pageTitle = " ISTL Form - All Forms "; //page Title
     public $option_lists = [
 //		 'supplier_type' => 'SUPPLIER_TYPE',
     ];
