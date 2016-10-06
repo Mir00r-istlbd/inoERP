@@ -46,6 +46,8 @@ class hr_employee extends dbObject
         'citizen_number',
         'first_name',
         'last_name',
+        'father\'s_name',
+        'mother\'s_name',
         'phone',
         'email',
         'language',
@@ -126,6 +128,8 @@ class hr_employee extends dbObject
     public $citizen_number;
     public $first_name;
     public $last_name;
+    public $fathers_name;
+    public $mothers_name;
     public $phone;
     public $email;
     public $language;
