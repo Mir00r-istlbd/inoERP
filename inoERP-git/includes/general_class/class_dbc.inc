@@ -121,7 +121,8 @@ class dbc
                 }
             } catch (PDOException $ex) {
                 print "Data Base Connection Error!: <br> Modify the database settings @ includes/basics/dbsettings.inc file & reload the page"
-                    . "<br>" . $e->getMessage() . "<br/>";
+                    . "<br>" . $ex->getMessage() . "<br/>";
+
                 die();
             }
         }
