@@ -11,8 +11,8 @@ class hr_employee_v extends dbObject
         'username',
         'first_name',
         'last_name',
-        'father\'s_name',
-        'mother\'s_name',
+        /*'father\'s_name',
+        'mother\'s_name',*/
         'email',
         'hr_employee_id',
         'status',
@@ -39,8 +39,8 @@ class hr_employee_v extends dbObject
         'username',
         'first_name',
         'last_name',
-        'father\'s_name',
-        'mother\'s_name',
+        /*'father\'s_name',
+        'mother\'s_name',*/
         'email',
         'hr_employee_id',
         'status',
@@ -94,8 +94,8 @@ class hr_employee_v extends dbObject
     public $username;
     public $first_name;
     public $last_name;
-    public $fathers_name;
-    public $mothers_name;
+    /*public $fathers_name;
+    public $mothers_name;*/
     public $email;
     public $hr_employee_id;
     public $status;

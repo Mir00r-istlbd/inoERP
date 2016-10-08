@@ -24,7 +24,7 @@
                             echo $f->hidden_field_withId('team_lead_employee_id', $$class->team_lead_employee_id);
                             ?><i class="generic g_select_lead_employee_name select_popup clickable fa fa-search"
                                  data-class_name="hr_employee_v"></i></li>
-                        <li><?php $f->l_select_field_from_object('region', hr_team_header::team_region(), 'option_line_code', 'option_line_value', $$class->region, 'region'); ?> </li>
+                        <li><?php $f->l_select_field_from_object('division', hr_team_header::team_division(), 'option_line_code', 'option_line_value', $$class->division, 'division'); ?> </li>
                         <li><?php $f->l_text_field_d('email'); ?> </li>
                         <li><?php $f->l_status_field_d('status'); ?> </li>
                         <li><?php $f->l_date_fieldAnyDay('start_date', $$class->end_date); ?></li>

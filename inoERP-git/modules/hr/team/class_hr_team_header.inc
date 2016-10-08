@@ -37,7 +37,7 @@ class hr_team_header extends dbObject
         'team_name',
         'team_lead_employee_id',
         'type',
-        'region',
+        'division',
         'objective',
         'email',
         'status',
@@ -73,7 +73,7 @@ class hr_team_header extends dbObject
     public $team_name;
     public $team_lead_employee_id;
     public $type;
-    public $region;
+    public $division;
     public $objective;
     public $email;
     public $status;
@@ -107,9 +107,9 @@ class hr_team_header extends dbObject
         return !empty($result) ? array_pop($result) : false;
     }
 
-    Public static function team_region()
+    Public static function team_division()
     {
-        $option_header = option_header::find_by_name('HR_TEAM_REGION');
+        $option_header = option_header::find_by_name('HR_TEAM_DIVISION');
         $ol = new option_line();
         $option_lines = $ol->findBy_parentId($option_header->option_header_id);
         return $option_lines;

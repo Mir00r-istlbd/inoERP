@@ -20,7 +20,7 @@ class hr_team_line extends dbObject
         'member_employee_id',
         'role',
         'responsibility',
-        'region',
+        'division',
         'start_date',
         'end_date',
         'objective',
@@ -48,7 +48,7 @@ class hr_team_line extends dbObject
     public $member_employee_id;
     public $role;
     public $responsibility;
-    public $region;
+    public $division;
     public $start_date;
     public $end_date;
     public $objective;
